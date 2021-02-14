@@ -10,3 +10,5 @@ Apache Kylin的社区和生态已经比较成熟，目前已经在多家大型�
 
 Apache Kylin 3.1.1 入门与实践-技术专栏详细介绍了Apache Kylin的基本概念、安装、Cube构建和优化、开源BI平台Superset的安装部署和使用、Kylin与Superset的集成，以及应用开发实践。
 
+![](https://raw.githubusercontent.com/rickiechina/kylin-samples/main/images/apache-kylin-logo.jpg)
+
